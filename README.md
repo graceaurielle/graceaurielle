@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @graceaurielle
-- 👀 I’m interested in informatique
-- 🌱 I’m currently learning angular
-- nice t meet you
+- 👋 Salut, Je suis @graceaurielle
+- 👀 Je suis passsionnée par l'informatique
+- Enchantée
 
 
 <!---
